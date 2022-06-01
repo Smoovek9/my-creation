@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background-color: black;
+    height: 90px;
+    display: flex;
+    justify-content: normal;
+}
+
+.header > .logo-codepen {
+    height: 40px;
+    width: 250px;
+}
+
+.header > .logo-codepen img {
+    margin: 7px;
+    height: 50px;
+    width: 250px;
+    padding: 15px;
+}
+
+.explore {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.explore h1 {
+    color: #cea135;
+    padding: 18px;
+    width: 0px;
+    height: 60%;
+    font-size: large;
+    font-family: 'Roboto' , sans-serif;
+    margin: 50px;
+}
+
+
+.pens-wrapper h2 {
+    color: aliceblue;
+    font-size: large;
+    word-spacing: 8px;
+    letter-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+    margin: 70px 10px 20px -68px;
+}

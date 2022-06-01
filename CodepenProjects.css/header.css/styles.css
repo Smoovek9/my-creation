@@ -1,0 +1,84 @@
+.middle-column {
+    background-color: black;
+    color: grey;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.spark {
+    color: grey;
+    padding-left: 40px;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.icon {
+    margin-left: 15px;
+}
+
+.icon i {
+    font-size: 100%;
+}
+
+
+.right-column {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+
+.right-column > .create-btn {
+    background-color: grey;
+    color: white;
+    font-size: 1.25em;
+    padding: 10px 25px;
+    border-radius: 5px;
+    outline: none;
+    transition: 0.2s;
+}
+
+.right-column > .create-btn h3 {
+    font-family: 'Playfair Display', sans-serif;
+    word-spacing: 4px;
+}
+
+.create-btn i {
+    color: green;
+    font-size: 1.2em;
+}
+
+.search-icon {
+    color: grey;
+    font-size: 2.5em;
+    padding-top: 30px;
+}
+
+.login-signup-btns {
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    background-color: grey;
+    color: white;
+    font-size: 1.25em;
+    border-radius: 5px;
+    outline: none;
+    transition: 0.2s;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 16px;
+}
+
+.sign-btn {
+    background-color: grey;
+    color: white;
+    font-size: 1.25em;
+    border-radius: 5px;
+    outline: none;
+    transition: 0.2s;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 16px;    
+}
+
